@@ -3,7 +3,7 @@ $this->load->view('template/header');
 ?>
 <div class="row">
     <div class="col-lg-12">
-        <h2>CodeIgniter Export Example</h2>                 
+        <h2>CodeIgniter mysql Export Example</h2>                 
     </div>
 </div><!-- /.row -->
 <div class="row">
